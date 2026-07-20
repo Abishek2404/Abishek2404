@@ -104,51 +104,6 @@ class AbishekRaja:
 
 ---
 
-## 💼 Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| [🛒 Nxt Trendz](http://abinxt.ccbp.tech) | React.js, JS, CSS, Bootstrap, REST API, JWT | E-commerce clone (Amazon/Flipkart style) · JWT auth + local storage · React Router with Login, Products & Product Detail pages |
-| [🐙 GitHub Popular Repos](http://abigithub.ccbp.tech) | React.js, REST API, CSS, Bootstrap | Dynamic repo explorer by language · Real-time GitHub API fetch · Responsive UI with React components & props |
-| [✅ Todos Application](http://abishektodos.ccbp.tech) | HTML, CSS, JS, Bootstrap | Full CRUD todo app · Persistent state via local storage · Dynamic DOM manipulation with JS event listeners |
-
-</div>
-
----
-
-## 🎖️ Achievements
-
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|----|-------------|---------|
-| 🥉 | **3rd Place — Intercollegiate Hackathon** | Thiruvalluvar University · Led 3-member team · Excel, Python & Advanced Data Visualization rounds |
-| 🤖 | **AI for India 2.0 — GUVI** | Practical Python · ML models · Text classification & AI image generation |
-| 🐍 | **Python Certification — GUVI** | OOP, file handling, data types, real-world problem solving |
-| 🎨 | **UI/UX Mega Workshop — NxtWave** | UX principles, wireframing, visual hierarchy, user-flow design |
-| ✨ | **Generative AI Workshop — NxtWave** | Built a GenAI app from scratch · Prompt engineering · AI model integration |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree / Certification | Institution | Year | Score |
-|------------------------|-------------|------|-------|
-| Industry Ready Cert. — Full-Stack Dev | Nxtwave Disruptive Technologies | 2023–2025 | — |
-| BSc Physics | Voorhees College, Vellore | 2022–2025 | 68.0% |
-| Intermediate — MBiPC | Sri N.K.M. Hr. Sec. School, Vellore | 2020–2022 | 55.0% |
-| Secondary School Certificate | Sri N.K.M. Hr. Sec. School, Vellore | 2019–2020 | 60.0% |
-
-</div>
-
----
-
 ## 🚀 Currently Learning
 
 ```
