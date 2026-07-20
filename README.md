@@ -75,6 +75,19 @@ class AbishekRaja:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Abishek2404">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Abishek2404&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Abishek2404">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abishek2404&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
+  </a>
+</div>
+
+---
+
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -104,6 +117,38 @@ class AbishekRaja:
 </div>
 
 ---
+
+## 🎖️ Achievements
+
+<div align="center">
+
+| 🏅 | Achievement | Details |
+|----|-------------|---------|
+| 🥉 | **3rd Place — Intercollegiate Hackathon** | Thiruvalluvar University · Led 3-member team · Excel, Python & Advanced Data Visualization rounds |
+| 🤖 | **AI for India 2.0 — GUVI** | Practical Python · ML models · Text classification & AI image generation |
+| 🐍 | **Python Certification — GUVI** | OOP, file handling, data types, real-world problem solving |
+| 🎨 | **UI/UX Mega Workshop — NxtWave** | UX principles, wireframing, visual hierarchy, user-flow design |
+| ✨ | **Generative AI Workshop — NxtWave** | Built a GenAI app from scratch · Prompt engineering · AI model integration |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree / Certification | Institution | Year | Score |
+|------------------------|-------------|------|-------|
+| Industry Ready Cert. — Full-Stack Dev | Nxtwave Disruptive Technologies | 2023–2025 | — |
+| BSc Physics | Voorhees College, Vellore | 2022–2025 | 68.0% |
+| Intermediate — MBiPC | Sri N.K.M. Hr. Sec. School, Vellore | 2020–2022 | 55.0% |
+| Secondary School Certificate | Sri N.K.M. Hr. Sec. School, Vellore | 2019–2020 | 60.0% |
+
+</div>
+
+---
+
 ## 🚀 Currently Learning
 
 ```
