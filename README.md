@@ -1,88 +1,131 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abishek+Raja&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack+Developer+%7C+Building+Modern+Web+Experiences&descAlignY=62&descSize=16"/>
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Abishek+Raja+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%2B+Node.js;Data+Analytics+%7C+Power+BI+%7C+Tableau;Hackathon+Winner+%F0%9F%8F%86+%7C+Lifelong+Learner" alt="Typing SVG" />
+</div>
 
-<img src="assets/hero-banner.svg" alt="Abishek R — anime-inspired cyberpunk developer banner" width="100%">
+<br/>
 
-<a href="https://github.com/Abishek2404">
-  <img src="https://img.shields.io/badge/GitHub-Abishek2404-0B0B14?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/abishek-raja-/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0B0B14?style=for-the-badge&logo=linkedin&logoColor=C04DFF" alt="LinkedIn">
-</a>
-<a href="https://abishekr-portfolio.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0B0B14?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio">
-</a>
-<a href="mailto:abir33856@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0B0B14?style=for-the-badge&logo=gmail&logoColor=FF4FA3" alt="Email">
-</a>
+---
 
-**FULL-STACK DEVELOPER · AI BUILDER · AUTOMATION ENTHUSIAST**
+## 🧑‍💻 About Me
 
-*Turning ideas into useful software, one commit at a time.*
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+```python
+class AbishekRaja:
+    def __init__(self):
+        self.name         = "Abishek Raja"
+        self.location     = "Vellore, Tamil Nadu, India"
+        self.degree       = "BSc Physics — Voorhees College"
+        self.certification = "Full-Stack Dev — Nxtwave (2023–2025)"
+        self.stack        = [
+            "React.js", "Node.js", "Express",
+            "Python", "JavaScript", "Bootstrap",
+            "SQLite", "REST APIs", "JWT"
+        ]
+        self.learning     = [
+            "Advanced React Patterns",
+            "Cloud (AWS)",
+            "Generative AI & Prompt Engineering",
+            "Data Visualization (Power BI, Tableau)"
+        ]
+        self.fun_fact     = "Won 3rd place at a university hackathon 🏆"
+
+    def motto(self):
+        return "Build. Break. Learn. Repeat."
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Databases**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Abishek2404">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Abishek2404&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Abishek2404">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abishek2404&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
+  </a>
 </div>
 
 ---
 
-## `01 // ABOUT ME`
+## 🔥 Streak Stats
 
-Hey, I'm **Abishek R**, a Physics graduate and developer focused on building practical web applications, AI-powered tools, and workflow automations.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abishek2404&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="Streak Stats"/>
+</div>
 
-- 💻 Building full-stack applications with React, Node.js, Express, and databases.
-- 🤖 Exploring AI assistants, voice automation, LLM integrations, and adaptive learning.
-- 🧰 Interested in APIs, data modelling, testing, deployment, and solving real product problems.
-- 🌱 Always learning by building and improving real projects.
+---
 
-## `02 // TECH STACK`
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek2404&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🚀 Currently Learning
+
+```
+🧱 Frontend       → Advanced React Patterns, Performance Optimisation
+☁️  Cloud          → AWS Services (EC2, S3, Lambda)
+🤖 AI/ML          → Generative AI, Prompt Engineering, LLM Integration
+📊 Data           → Power BI Advanced, Tableau Storytelling
+🔒 Backend        → Auth Systems, REST API Design, Express Middleware
+```
+
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,python,fastapi,mongodb,postgres,sqlite,firebase,supabase,git,github,docker" alt="HTML CSS Bootstrap Tailwind JavaScript TypeScript React Node.js Express Python FastAPI MongoDB PostgreSQL SQLite Firebase Supabase Git GitHub Docker">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abishek%20Raja-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishek-raja-/)
+[![GitHub](https://img.shields.io/badge/GitHub-Abishek2404-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abishek2404)
+[![Email](https://img.shields.io/badge/Email-abir33856%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abir33856@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abishek2404&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
-## `03 // FEATURED PROJECTS`
-
-| Project | What it does | Technologies |
-|---|---|---|
-| 🚨 **SOS Emergency Response** | Emergency trigger workflows, incident tracking, admin dashboard and mobile app | React, TypeScript, React Native, Expo, Node.js, Prisma |
-| ☎️ **AI Recruitment Calling Automation** | Candidate calling workflows, call logs, transcripts and follow-ups | Node.js, TypeScript, PostgreSQL, n8n, voice AI APIs |
-| 🧠 **NEXUS AI** | Adaptive learning assistant concept with AI and conversation memory | FastAPI, Gemini, Prisma, vector search |
-| 📚 **EduFlow LMS** | Learning platform concept for courses, notes, bookmarks and AI study content | React, APIs, Prisma, Supabase |
-| 📖 **Personalized Book Recommender** | Book recommendations using content similarity | Python, pandas, cosine similarity, Streamlit |
-| 💸 **Money Manager** | Income and expense dashboard across time periods | React, JavaScript, data visualization |
-
-> Project links are intentionally not guessed. Replace the project names with links to the correct public repositories when ready.
-
-## `04 // GITHUB DASHBOARD`
-
-<div align="center">
-
-<a href="https://github.com/Abishek2404">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abishek2404&show_icons=true&hide_border=true&bg_color=0B0B14&title_color=00E5FF&icon_color=C04DFF&text_color=D6D8E5" alt="GitHub statistics">
-</a>
-<a href="https://github.com/Abishek2404">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek2404&layout=compact&hide_border=true&bg_color=0B0B14&title_color=00E5FF&text_color=D6D8E5" alt="Most used languages">
-</a>
-
-</div>
-
-## `05 // CURRENT QUESTS`
-
-- [ ] Ship polished, reliable full-stack projects.
-- [ ] Strengthen automated testing, security, and observability.
-- [ ] Build useful AI agents and voice workflows.
-- [ ] Keep learning through practical projects.
-
-## `06 // CONNECT`
-
-<div align="center">
-
-<img src="assets/footer-banner.svg" alt="Neon cyberpunk connect banner" width="100%">
-
-**Open to interesting projects, collaboration, and developer opportunities.**
-
-[GitHub](https://github.com/Abishek2404) · [LinkedIn](https://www.linkedin.com/in/abishek-raja-/) · [Portfolio](https://abishekr-portfolio.netlify.app) · [Email](mailto:abir33856@gmail.com)
-
-<sub>BUILD · LEARN · AUTOMATE · IMPROVE</sub>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
