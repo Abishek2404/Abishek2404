@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
+<title id="title">Let's connect</title><desc id="desc">A dark neon cyberpunk footer banner with a city skyline and collaboration message.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080812"/><stop offset=".55" stop-color="#11132B"/><stop offset="1" stop-color="#241039"/></linearGradient><linearGradient id="neon"><stop stop-color="#00E5FF"/><stop offset="1" stop-color="#C04DFF"/></linearGradient></defs>
+<rect width="1200" height="170" rx="16" fill="url(#bg)" stroke="#34365C"/>
+<g fill="#17172D" stroke="#00E5FF" stroke-opacity=".5"><path d="M0 142V85H30V65H55V142ZM62 142V100H90V48H120V142ZM1080 142V86H1110V55H1145V142ZM1150 142V95H1175V72H1200V142Z"/></g>
+<path d="M20 145H1180" stroke="url(#neon)" stroke-width="2"/>
+<text x="55" y="58" fill="#C04DFF" font-family="monospace" font-size="14" letter-spacing="3">// OPEN CHANNEL</text>
+<text x="55" y="104" fill="#F4F4FF" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="bold">LET'S BUILD SOMETHING</text>
+<text x="55" y="137" fill="#00E5FF" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="bold">USEFUL TOGETHER.</text>
+<g font-family="monospace" font-size="14" fill="#D6D8E5"><text x="815" y="73">GITHUB / LINKEDIN</text><text x="815" y="100">PORTFOLIO / EMAIL</text><text x="815" y="127" fill="#00E5FF">/// ABISHEK2404</text></g>
+</svg>
